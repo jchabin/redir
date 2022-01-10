@@ -1,2 +1,2 @@
 # redir
-small app to allow encoding data URI into QR codes (sorta)
+small app to allow displaying data URL as html
